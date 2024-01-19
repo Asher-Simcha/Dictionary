@@ -60,7 +60,9 @@ Question(){
     --window-icon="/usr/share/icons/dictionary.png" \
     --title="Dictionary" \
     --width="400" \
-    --field="Word(s) to Define: ")
+    --field="Word(s) to Define: " \
+    --button="Quit":"1" \
+    --button="Find":"0" )
     RESULTS=$? # This is the exit code from yad 
     if [ $RESULTS -eq "1" ]; then exit 0; fi
     echo "YADRESULTS $YADRESULTS"
@@ -79,7 +81,9 @@ Display(){
     --title="Dictionary" \
     --width="700" \
     --height="600" \
-    --filename="$TMPFILE"
+    --filename="$TMPFILE" \
+    --button="Quit":"1" \
+    --button="Find Another":"0"
     RESULTS=$? # This is the exit code
     rm $TMPFILE
     if [ $RESULTS -eq "1" ]; then
