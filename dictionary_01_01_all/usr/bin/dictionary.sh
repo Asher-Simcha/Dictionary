@@ -55,7 +55,7 @@ CheckFileSystem(){
 }
 Question(){
     YADRESULTS=$(${YAD} --form \
-    --window-icon="/usr/share/icons/stop-loss-target.png" \
+    --window-icon="/usr/share/icons/dictionary.png" \
     --title="Dictionary" \
     --width="400" \
     --field="Word(s) to Define: ")
@@ -73,8 +73,8 @@ Question(){
 Display(){
     # display the tmp file to the screen
     $YAD --text-info \
-    --window-icon="/usr/share/icons/stop-loss-target.png" \
-    --title="Stop Loss and Target Calculator Result" \
+    --window-icon="/usr/share/icons/dictionary.png" \
+    --title="Dictionary" \
     --width="700" \
     --height="600" \
     --filename="$TMPFILE"
