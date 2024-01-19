@@ -20,7 +20,7 @@ Step 2:
 Easily lookup definitions for phrases or multi-word queries.
 
 Step 1:
-![Multi-Word Example 1](images/1_multi_word_pass_through.png)
+![Multi-Word Example 1](images/1_multi_word_pass_though.png)
 Step 2:
 ![Multi-Word Example 2](images/2_multi_word_pass_through.png)
 
