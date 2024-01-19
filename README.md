@@ -34,22 +34,11 @@ Copy all files to persective directories.
 
 There are 3 main files that you are wanting to collect to get running.
 
-https://github.com/Asher-Simcha/Dictionary/blob/main/dictionary_01_01_all/usr/bin/dictionary.sh
+[copy to /usr/bin/dictionary.sh] (https://github.com/Asher-Simcha/Dictionary/blob/main/dictionary_01_01_all/usr/bin/dictionary.sh)
 
-copy to /usr/bin/dictionary.sh
+[copy to /usr/share/applications/dictionary.desktop] (https://github.com/Asher-Simcha/Dictionary/blob/main/dictionary_01_01_all/usr/share/applications/dictionary.desktop)
 
-
-
-https://github.com/Asher-Simcha/Dictionary/blob/main/dictionary_01_01_all/usr/share/applications/dictionary.desktop
-
-copy to /usr/share/applications/dictionary.desktop
-
-
-https://github.com/Asher-Simcha/Dictionary/blob/main/dictionary_01_01_all/usr/share/icons/dictionary.png
-
-copy to /usr/share/icons/dictionary.png
-
-
+[copy to /usr/share/icons/dictionary.png] (https://github.com/Asher-Simcha/Dictionary/blob/main/dictionary_01_01_all/usr/share/icons/dictionary.png)
 
 ## License
 The 2-Clause BSD License # https://opensource.org/license/bsd-2-clause/
