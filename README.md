@@ -10,13 +10,18 @@ Dictionary is a Linux Desktop Application designed as a command line interface f
 ### Example 1: Single Word Definitions
 Get definitions for single words quickly and efficiently.
 
+Step 1:
 ![Single Word Example 1](images/1_test.png)
+
+Step 2:
 ![Single Word Example 2](images/2_test.png)
 
 ### Example 2: Multi-Word Definitions
 Easily lookup definitions for phrases or multi-word queries.
 
+Step 1:
 ![Multi-Word Example 1](images/1_multi_word_pass_through.png)
+Step 2:
 ![Multi-Word Example 2](images/2_multi_word_pass_through.png)
 
 ## Requirements
