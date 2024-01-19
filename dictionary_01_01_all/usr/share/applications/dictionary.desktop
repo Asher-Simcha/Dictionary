@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dictionary
+Comment=Dictionary
+Exec=/usr/bin/dictionary.sh
+Icon=dictionary
+Terminal=false
+StartupNotify=false
+Categories=Accessories;Office;Asher;
+Keywords=dictionary;define;asher;

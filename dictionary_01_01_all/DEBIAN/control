@@ -1,0 +1,10 @@
+Package: Dictionary
+Version: 1.01
+Architecture: all
+Priority: optional
+Depends: yad, dict
+Maintainer: Ashers Programs <contact@ashersprograms.com>
+Description: Bring Command line Tools to the Desktop.
+ This is a simple and easy to use dictionary. 
+ Front end designed by Ashers Programs.
+
