@@ -1,6 +1,6 @@
 # Dictionary
 
-![Logo](image/dictionary.png)
+![Logo](images/dictionary.png)
 
 ## Description 
 Dictionary is a Linux Desktop Application designed as a command line interface for the 'dict' program. It offers a user-friendly way to access definitions and meanings of words directly from your desktop.
