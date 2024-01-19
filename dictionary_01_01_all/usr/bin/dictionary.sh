@@ -18,23 +18,25 @@
 # Version: 1
 # Date: 01-19-2024
 # Last_Modified: 01-19-2024
-# Source: 
+# Source: https://github.com/Asher-Simcha/Dictionary/tree/main
 # Additional_Sources: 
-# License: 
+# License: https://github.com/Asher-Simcha/Dictionary/tree/main
 # Additional_Licenses: 
 # Credits: 
-# Additional Credits: 
+# Additional Credits: Icon Created by: https://openverse.org/image/93fdcc74-1c81-4cc4-839b-cff4683f6700?q=open%20book
 # Additional Credits: 
 # Audio_Location: 
 # Location_of_the_Video: 
 # Embed_YouTube: 
 # Website_For_Video: 
 # Start_Time: 
-# Parent_File: 
+# Parent_File: /usr/bin/dictionary.sh
 # Sibling_File: /usr/bin/yad
 # Sibling_File: /usr/bin/dict 
 # Sibling_File: 
-# Child_File: 
+# Child_File: /usr/share/applications/dictionary.desktop
+# Child_File: /usr/share/icon/dictionary.png
+# Child_File: /usr/share/pixmaps/dictionary.png
 # Child_File: 
 # Linkable: 1
 # Display_Links: 1
