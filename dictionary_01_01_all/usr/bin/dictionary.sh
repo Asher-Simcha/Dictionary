@@ -20,7 +20,7 @@
 # Last_Modified: 01-19-2024
 # Source: https://github.com/Asher-Simcha/Dictionary/tree/main
 # Additional_Sources: 
-# License: https://github.com/Asher-Simcha/Dictionary/tree/main
+# License: The 2-Clause BSD License
 # Additional_Licenses: 
 # Credits: 
 # Additional Credits: Icon Created by: https://openverse.org/image/93fdcc74-1c81-4cc4-839b-cff4683f6700?q=open%20book
